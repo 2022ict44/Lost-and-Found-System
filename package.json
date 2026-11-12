@@ -1,7 +1,15 @@
 {
   "name": "lost-and-found",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Course:** Web Services and Technology (IT2234)  \r **Project Type:** Full-Stack Web Application (REST API + Optional React Frontend)",
+  "homepage": "https://github.com/2022ict44/Lost-and-Found-System#readme",
+  "bugs": {
+    "url": "https://github.com/2022ict44/Lost-and-Found-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2022ict44/Lost-and-Found-System.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
