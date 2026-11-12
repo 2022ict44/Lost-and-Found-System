@@ -356,7 +356,8 @@ Lost-and-Found-System/
 ![create](./Screenshot/create.png.png)
 ![delete1](./Screenshot/delete1.png.png)
 ![frontend](./Screenshot/cursor-frontend.png.png)
-![README](./Screenshot/README.png.png)
+![README](./Screenshot/README
+.png.png)
 
 ## Author
 
